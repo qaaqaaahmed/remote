@@ -1,0 +1,7 @@
+Linux (RHCSA Level)
+AWS 
+docker
+ci cd 
+terraform 
+Kubernetes
+Ansible
