@@ -1,0 +1,6 @@
+Linux (RHCSA Level)
+AWS 
+AWS SAA certified, sysops
+docker
+ci cd 
+terraform 
