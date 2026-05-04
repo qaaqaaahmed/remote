@@ -1,0 +1,4 @@
+There are three paths to choose from:
+a)Sysadmin
+b) cloud engineering
+c) devops
