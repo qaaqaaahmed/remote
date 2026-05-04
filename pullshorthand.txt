@@ -1,0 +1,1 @@
+testing pull shorthand -> git pull (it defaults to origin and your current local branch) - its like you writing git pull origin devops
